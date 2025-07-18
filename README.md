@@ -1,16 +1,12 @@
-# votex
+# Votex
 
-A new Flutter project.
+**Votex** is a College Election Management System built using **Flutter** and **Supabase**.  
+It features:
 
-## Getting Started
+- 🔐 Secure OTP-based login  
+- 🗳️ Real-time voting system  
+- 🧾 Candidate registration with admin approval  
+- 📊 Live result announcements  
+- 🎨 Clean and modern UI/UX  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project helps colleges manage student elections efficiently and transparently with real-time data and a mobile-first experience.
