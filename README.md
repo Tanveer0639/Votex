@@ -26,33 +26,34 @@ Votex is a **College Election Management System** built using **Flutter** and **
 ---
 
 ## 📷 Screenshots
-## 📷 Screenshots
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
 
-<p align="center">
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-06-52-04_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-06-56-55_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-03-51_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-12-40_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-20-07_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-24-87_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-30-00_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-36-59_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-07-97_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-12-96_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-18-48_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-32-25_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-49-88_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-57-46_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-20-78_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-29-92_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-33-47_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-40-38_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-49-72_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-56-71_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-59-28_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-10-01-59_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-  <img src="assets/screenshots/Screenshot_2025-06-16-14-10-04-12_8a5357224cefd2acd477130a3343ffca.jpg" width="250" />
-</p>
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-06-52-04_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-06-56-55_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-03-51_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-12-40_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-20-07_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-24-87_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-30-00_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-07-36-59_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-07-97_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-12-96_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-18-48_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-32-25_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-49-88_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-08-57-46_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-20-78_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-29-92_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-33-47_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-40-38_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-49-72_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-56-71_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-09-59-28_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-10-01-59_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+  <img src="assets/screenshots/Screenshot_2025-06-16-14-10-04-12_8a5357224cefd2acd477130a3343ffca.jpg" width="150" />
+
+
+</div>
 
 ---
 
