@@ -27,7 +27,7 @@ Votex is a **College Election Management System** built using **Flutter** and **
 
 ## 📷 Screenshots
 
-> [Screenshots](<../Reports images/screenshots>)
+>screenshots
 
 ---
 
